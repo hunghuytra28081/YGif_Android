@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/gifItem"
+        android:icon="@drawable/ic_gif"
+        android:title="@string/tab_gif" />
+
+    <item
+        android:id="@+id/textItem"
+        android:icon="@drawable/ic_text"
+        android:title="@string/tab_text" />
+
+    <item
+        android:id="@+id/stickerItem"
+        android:icon="@drawable/ic_sticker"
+        android:title="@string/tab_sticker" />
+</menu>
