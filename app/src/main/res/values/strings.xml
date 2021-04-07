@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YGif Mobile</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="tab_gif">Gif</string>
+    <string name="tab_text">Text</string>
+    <string name="tab_sticker">Sticker</string>
+    <string name="title">YGIF</string>
+    <string name="slogan">Bring joy to everyone</string>
+    <string name="title_trending">Trending</string>
+    <string name="title_random">Random</string>
+    <string name="title_related">Related</string>
+    <string name="title_storage">Storage</string>
+    <string name="delete_failed">Delete failed</string>
+    <string name="download_failed">Download failed</string>
+    <string name="dialog_download">Do you want download?</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="dialog_delete_gif">Do you want delete gif?</string>
+    <string name="choose_share">Choose an app</string>
+    <string name="back_again">Back again to exit</string>
+</resources>
